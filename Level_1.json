@@ -2,8 +2,9 @@
   "Data": [
     {
       "Time": 0,
+
       "Name": "Bat",
-      "MinimumCount": 25,
+      "MinimumCount": 35,
       "SpawnInterval": 1,
       "ShapeType": "Circle"
     },
