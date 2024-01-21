@@ -3,7 +3,7 @@
     {
       "Time": 0,
       "Name": "Bat",
-      "MinimumCount": 15,
+      "MinimumCount": 25,
       "SpawnInterval": 1,
       "ShapeType": "Circle"
     },
