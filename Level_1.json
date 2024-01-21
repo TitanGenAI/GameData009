@@ -1,8 +1,21 @@
 {
   "Data": [
-    {      "Time": 0,        "Name": "Zombie",         "MinimumCount": 500,       "SpawnInterval": 1,      "ShapeType": "Circle"    },
-    {      "Time": 60,       "Name": "Creature2",  "MinimumCount": 20,      "SpawnInterval": 1,      "ShapeType": "Circle"    },
-    {      "Time": 120,      "Name": "Bat",         "MinimumCount": 80,      "SpawnInterval": 1,      "ShapeType": "Circle"    },
-    {      "Time": 180,      "Name": "Zombie",      "MinimumCount": 55,      "SpawnInterval": 1,      "ShapeType": "Circle"    }
+    {      "Time": 0,        "Name": "Bat",         "MinimumCount": 5,       "SpawnInterval": 1,      "ShapeType": "Circle"    },
+    {      "Time": 20,       "Name": "Zombie",      "MinimumCount": 20,      "SpawnInterval": 1,      "ShapeType": "Circle"    },
+    {      "Time": 40,      "Name": "Creature1",    "MinimumCount": 20,      "SpawnInterval": 1,      "ShapeType": "Circle"    },
+    {      "Time": 60,      "Name": "Creature2",    "MinimumCount": 25,      "SpawnInterval": 1,      "ShapeType": "Circle"    },
+    {      "Time": 80,      "Name": "Creature3",    "MinimumCount": 25,      "SpawnInterval": 1,      "ShapeType": "Circle"    },
+    {      "Time": 100,     "Name": "Creature4",    "MinimumCount": 25,      "SpawnInterval": 1,      "ShapeType": "Circle"    },
+    {      "Time": 120,     "Name": "Creature5",    "MinimumCount": 25,      "SpawnInterval": 1,      "ShapeType": "Circle"    },
+    {      "Time": 140,     "Name": "Creature6",    "MinimumCount": 25,      "SpawnInterval": 1,      "ShapeType": "Circle"    },
+    {      "Time": 160,      "Name": "Creature7",    "MinimumCount": 25,      "SpawnInterval": 1,      "ShapeType": "Circle"    },
+    {      "Time": 180,      "Name": "Creature8",    "MinimumCount": 25,      "SpawnInterval": 1,      "ShapeType": "Circle"    },
+    {      "Time": 200,      "Name": "Creature9",    "MinimumCount": 25,      "SpawnInterval": 1,      "ShapeType": "Circle"    },
+    {      "Time": 220,      "Name": "Creature10",    "MinimumCount": 25,      "SpawnInterval": 1,      "ShapeType": "Circle"    },
+    {      "Time": 240,      "Name": "Creature11",    "MinimumCount": 25,      "SpawnInterval": 1,      "ShapeType": "Circle"    },
+    {      "Time": 260,      "Name": "Creature12",    "MinimumCount": 25,      "SpawnInterval": 1,      "ShapeType": "Circle"    },
+    {      "Time": 280,      "Name": "Creature13",    "MinimumCount": 25,      "SpawnInterval": 1,      "ShapeType": "Circle"    },
+    {      "Time": 300,      "Name": "Creature14",    "MinimumCount": 25,      "SpawnInterval": 1,      "ShapeType": "Circle"    },
+    {      "Time": 320,      "Name": "Creature15",    "MinimumCount": 25,      "SpawnInterval": 1,      "ShapeType": "Circle"    }
   ]
 }
