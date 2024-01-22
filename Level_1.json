@@ -1,6 +1,6 @@
 {
   "Data": [
-    {      "Time": 0,        "Name": "Creature4",         "MinimumCount": 5,       "SpawnInterval": 1,      "ShapeType": "Circle"    },
+    {      "Time": 0,        "Name": "Bat",         "MinimumCount": 5,       "SpawnInterval": 1,      "ShapeType": "Circle"    },
     {      "Time": 20,       "Name": "Zombie",      "MinimumCount": 20,      "SpawnInterval": 1,      "ShapeType": "Circle"    },
     {      "Time": 40,      "Name": "Creature1",    "MinimumCount": 20,      "SpawnInterval": 1,      "ShapeType": "Circle"    },
     {      "Time": 60,      "Name": "Creature2",    "MinimumCount": 25,      "SpawnInterval": 1,      "ShapeType": "Circle"    },
